@@ -5,15 +5,13 @@ title:  "PixelFlight: 2D 종스크롤 슈팅게임"
 
 # PixelFlight
 
-2D 종스크롤 슈팅게임
+**2D 종스크롤 슈팅게임**
 
-**· 기술소개서**      
-**· 실행파일**  https://drive.google.com/drive/folders/1yVHnFEm0DI7vrUaiWHvGktyvusocfWMj?usp=sharing 
-
+## 게임 소개
 <details markdown="1">
 <summary> 게임 설명 </summary>
 
-# UI
+## UI
 
 - 타이틀 씬 (메인 씬 / 로그인 씬 / 회원가입 씬)
 
@@ -32,3 +30,7 @@ title:  "PixelFlight: 2D 종스크롤 슈팅게임"
 ![캡처](https://user-images.githubusercontent.com/82872149/168859958-d024f9aa-e5ff-49d3-bfe2-c7ce83dfb0d8.JPG)
 
 </details>
+
+## 파일 링크
+**· 기술소개서**      
+**· 실행파일**  https://drive.google.com/drive/folders/1yVHnFEm0DI7vrUaiWHvGktyvusocfWMj?usp=sharing 
