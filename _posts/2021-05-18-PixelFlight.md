@@ -31,6 +31,9 @@ title:  "PixelFlight: 2D 종스크롤 슈팅게임"
 
 </details>
 
+<details markdown="1">
+<summary> 게임 설명 </summary>
 ## 링크
 ### 기술소개서    
 ### 파일링크  https://drive.google.com/drive/folders/1yVHnFEm0DI7vrUaiWHvGktyvusocfWMj?usp=sharing
+</details>
