@@ -7,8 +7,8 @@ title:  "PixelFlight: 2D 종스크롤 슈팅게임"
 
 2D 종스크롤 슈팅게임
 
-기술서     : 
-실행파일   :
+기술 소개서  
+실행파일     
 
 <details markdown="1">
 <summary> 게임 설명 </summary>
