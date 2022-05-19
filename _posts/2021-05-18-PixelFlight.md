@@ -7,6 +7,8 @@ title:  "PixelFlight: 2D 종스크롤 슈팅게임"
 
 2D 종스크롤 슈팅게임
 
+# 1. 전체적인 UI
+
 - 타이틀 씬 (메인 씬 / 로그인 씬 / 회원가입 씬)
 
 ![title](https://user-images.githubusercontent.com/82872149/168858243-3f71b6e8-b70b-4f5e-b498-dcf99e6e53be.JPG)
