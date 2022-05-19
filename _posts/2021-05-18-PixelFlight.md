@@ -7,8 +7,8 @@ title:  "PixelFlight: 2D 종스크롤 슈팅게임"
 
 2D 종스크롤 슈팅게임
 
-· 기술 소개서  
-· 실행파일      https://drive.google.com/drive/folders/1yVHnFEm0DI7vrUaiWHvGktyvusocfWMj?usp=sharing
+**· 기술소개서**      
+**· 실행파일**  https://drive.google.com/drive/folders/1yVHnFEm0DI7vrUaiWHvGktyvusocfWMj?usp=sharing 
 
 <details markdown="1">
 <summary> 게임 설명 </summary>
