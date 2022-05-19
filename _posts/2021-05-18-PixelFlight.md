@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "PixelFlight: 2D 종스크롤 슈팅게임"
+title:  "PixelFlight - 2D 종스크롤 슈팅게임"
 ---
 
 # PixelFlight
