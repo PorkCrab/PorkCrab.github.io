@@ -7,6 +7,12 @@ title:  "PixelFlight: 2D 종스크롤 슈팅게임"
 
 2D 종스크롤 슈팅게임
 
+기술서     : 
+실행파일   :
+
+<details markdown="1">
+<summary> 게임 설명 </summary>
+
 # UI
 
 - 타이틀 씬 (메인 씬 / 로그인 씬 / 회원가입 씬)
@@ -24,3 +30,5 @@ title:  "PixelFlight: 2D 종스크롤 슈팅게임"
 - 인게임 씬_환경설정
 
 ![캡처](https://user-images.githubusercontent.com/82872149/168859958-d024f9aa-e5ff-49d3-bfe2-c7ce83dfb0d8.JPG)
+
+</details>
