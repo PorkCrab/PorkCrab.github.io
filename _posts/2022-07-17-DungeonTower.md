@@ -47,5 +47,5 @@ title:  "DungeonTower - 3D RPG"
 
 ## 링크
 #### 플레이영상 [https://youtu.be/LF04CVTDmnA](https://youtu.be/LF04CVTDmnA)
-#### 사용된코드  [https://github.com/PorkCrab/PorkCrab.github.io/tree/master/_posts/Scripts ](https://github.com/PorkCrab/PorkCrab.github.io/tree/master/_posts/Scripts)
+#### 사용된코드  [[https://github.com/PorkCrab/PorkCrab.github.io/tree/master/_posts/Scripts ]](https://github.com/PorkCrab/PorkCrab.github.io/tree/master/_posts/02.Scripts)(https://github.com/PorkCrab/PorkCrab.github.io/tree/master/_posts/Scripts)
 #### 실행파일   [[ https://drive.google.com/drive/folders/1yVHnFEm0DI7vrUaiWHvGktyvusocfWMj?usp=sharing]](https://drive.google.com/file/d/1i7YPnIUSg-ECS_oxisGOiRyvt4S-48a1/view?usp=sharing)(https://drive.google.com/drive/folders/1yVHnFEm0DI7vrUaiWHvGktyvusocfWMj?usp=sharing)
